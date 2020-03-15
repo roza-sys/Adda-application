@@ -14,12 +14,9 @@
 * Collect fees 
 * Hand out claim Tickets 
 * Check vehicles for damage 
-* Escort customers to their vehicles if needed
-* Manage parking areas (barricades, directing traffic, etc.)
-* Do basic math without use of a calculator 
+* Escort customers to their vehicles if needed 
 * Manage keys 
 * Basic car servicing ( jump a car, tire if needed) 
-* call for cabs 
 ##### Parking Lot Attendant |Standard Parking| Seattle, WA (December - May. 2018 - 2019)
 * Hold up signs advertising parking lot fees 
 * Manipulate vehicles to take advantage of all spaces 
@@ -30,11 +27,8 @@
 * Clean up debris from parking lot 
 ##### Caregiver |Full life care| Seattle, WA ( May - November. 2017 - 2018) 
 * Assisting with personal care 
-* Preparing meals, shopping and housekeeping 
 * Overseeing medication and prescriptions usage, appointment reminders and administering medicine
-* help with getting in and out of a wheelchair, car
 * Provide constant companionship and general supervision 
-* Driving to and from activities 
 * Being a stable companion and supporter in all matters personal, health-related and emotional 
 * Providing other caregivers a break 
 * Following a care plan and noticing any changes in the individual's health, recording and reporting any differences
@@ -43,8 +37,6 @@
 * perform monthly, quarterly and annual accounting activities including reconciliations of bank accounts.
 * Analyze and report on financial status including income statement, financial results to management. 
 * provides financial information to management by researching and analyzing accounting data, preparing reports 
-* improve systems and procedures and initiate corrective actions.
-* Maintains accounting control by preparing and recommending policies and procedures 
 * Reconciles financial discrepancies by collecting and analyzing account information 
 * Secures financial information by completing database backups 
 * Prepare payment by verifying documentation, and requesting disbursements 
@@ -56,8 +48,6 @@
  * Greeting clients and visitors as needed
  * Recording information as needed
  * Updating paperwork , maintaining documents and word processing 
- * helping and organize and maintain office common areas
- * performing general office clerk duties and errands 
  * Coordinating events as necessary 
  * Maintaining office equipment as needed 
  * Creating, maintaining and entering information into databases 
