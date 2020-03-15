@@ -50,7 +50,7 @@
 * Prepare payment by verifying documentation, and requesting disbursements 
 * Substantiates financial transactions by auditing documents 
 * Documents financial transactions by entering account information 
- ##### Office Assistant | Ethiopian shipping and logistic service| Ethiopia (September-August. 2011 2013)
+ ##### Office Assistant | Ethiopian shipping and logistic service| Ethiopia (September-August. 2011-2013)
  * Handling incoming calls and other communications 
  * Managing filing system
  * Greeting clients and visitors as needed
