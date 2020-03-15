@@ -32,7 +32,7 @@
 * Being a stable companion and supporter in all matters personal, health-related and emotional 
 * Providing other caregivers a break 
 * Following a care plan and noticing any changes in the individual's health, recording and reporting any differences
- ##### Accountant |Ethiopan Air force| Ethiopia (July - November. 2016)
+ ##### Accountant |Ethiopan Air force|Addis Ababa, Ethiopia (July - November. 2016)
 * Prepare asset, liability and capital account entries 
 * perform monthly, quarterly and annual accounting activities including reconciliations of bank accounts.
 * Analyze and report on financial status including income statement, financial results to management. 
@@ -42,7 +42,7 @@
 * Prepare payment by verifying documentation, and requesting disbursements 
 * Substantiates financial transactions by auditing documents 
 * Documents financial transactions by entering account information 
- ##### Office Assistant | Ethiopian shipping and logistic service| Ethiopia (September-August. 2011-2013)
+ ##### Office Assistant | Ethiopian shipping and logistic service|Addis Ababa, Ethiopia (September-August. 2011-2013)
  * Handling incoming calls and other communications 
  * Managing filing system
  * Greeting clients and visitors as needed
